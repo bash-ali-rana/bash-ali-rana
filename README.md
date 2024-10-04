@@ -1,12 +1,12 @@
 <div align="center">
 <img src="https://mailtrap.io/wp-content/uploads/2020/06/testing_meme12.jpg" align="center" style="width: 100%" />
 </div>   
-
-<br/> 
   
 <br/>
 
 ### <div align="center">Hello 👋 I'm Basharat, A Senior Software Quality Assurance Engineer 👨‍💻 🦅 </div>  
+
+<br/>
 
 - 🔭 Working at [CloudPSO](https://cloudpso.com/), as Lead QA Automation Engineer  
   
