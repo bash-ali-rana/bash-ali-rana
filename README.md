@@ -40,7 +40,7 @@
 <a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg" alt="Cypress" height="50" /></a>
 <a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="50" /></a>
 <a href="https://docs.pytest.org/" target="_blank"><img style="margin: 10px" src="https://docs.pytest.org/en/stable/_static/pytest1.png" alt="Pytest" height="50" /></a>
-<a href="https://appium.io/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/appium-icon-511x512-rm65wi9n.png" alt="Appium" height="50" /></a>
+<a href="https://appium.io/" target="_blank"><img style="margin: 10px" src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="Appium" height="50" /></a>
 <a href="https://gatling.io/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/484/21/png-transparent-gatling-plain-logo-icon.png" alt="Gatling" height="50" /></a>
 <a href="https://jmeter.apache.org/" target="_blank"><img style="margin: 10px" src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" height="50" /></a>
 <a href="https://pact.io/" target="_blank"><img style="margin: 10px" src="https://pact.io/assets/img/logo-black.png" alt="Pact" height="50" width="90" /></a>
